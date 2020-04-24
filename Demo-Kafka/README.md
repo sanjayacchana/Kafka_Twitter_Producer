@@ -1,6 +1,7 @@
 #Kafka Demo
-	## Includes Twitter producer 
-	## Basic examples working with producer and consumer 
+
+	 1. Includes Twitter producer 
+	 2. Basic examples working with producer and consumer 
 	
 	
 ## Requirements
